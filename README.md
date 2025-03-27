@@ -1,0 +1,2 @@
+# MedicinaIA
+Proyecto intermodular
